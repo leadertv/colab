@@ -5,4 +5,4 @@
 
 ### Go to Revert!
 ### Revert String.
-### Added string revert info)
+### Added string revert info
