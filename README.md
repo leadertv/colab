@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Hi! This is Colab.
 
@@ -6,6 +5,3 @@
 
 ## My Name is Denjamin.
 
-=======
-# Hi! This si Colab.
->>>>>>> parent of c3517f2 (Readme changed)
